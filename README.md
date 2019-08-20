@@ -1,7 +1,7 @@
 # Overview
 [![screenshot](https://github.com/escapecode/Blender-BGE_Chess/blob/master/screenshots/00.png)](https://raw.github.com/wiki/escapecode/Blender-BGE_Chess/blob/master/screenshots/00..pngg)
 
-Using Blender's BGE and modifying the Sunfish chess script, a chess game was created with Blender and Python.  The .blend file is less than 200kb and allows you to play against the computer.
+Using Blender's BGE and modifying the Sunfish chess script, a chess game was created with Blender and Python.  The .blend file is only around 200kb and allows you to play against the computer.
 
 The purpose of this game is to show how easy it is to create games with AI in Blender.
 
